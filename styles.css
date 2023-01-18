@@ -1,0 +1,31 @@
+header, footer, main, .midpage{
+    text-align: center;
+}
+
+header h1{
+    font-weight: normal;
+}
+    
+main img{
+    width: 30%;
+    margin: 0% 2% 0% 0%;
+}
+
+.midpage{
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+}
+
+.midpage ul, .midpage ol{
+    list-style-type: none;
+    padding-inline-start: 0%;
+}
+
+    
+header, footer, main, img, .midpage{
+    border:
+}
+
+
+
